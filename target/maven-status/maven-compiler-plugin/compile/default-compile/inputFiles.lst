@@ -1,0 +1,12 @@
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/strategy/IGameStrategy.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/strategy/RowStrategy.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/exception/InvalidBoardSizeException.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/exception/InvalidPositionException.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/Application.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/strategy/FirstDiagonalStrategy.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/PlayResult.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/TicTacToe.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/strategy/ColumnStrategy.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/strategy/SecondDiagonalStrategy.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/Board.java
+/Users/zaichenkovladyslav/Desktop/TicTacToeTest/src/main/java/ibm/interview/exception/UnavailableCellException.java
